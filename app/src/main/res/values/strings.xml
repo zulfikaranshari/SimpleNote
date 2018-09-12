@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Simple Note</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_insert_note">InsertNoteActivity</string>
+    <string name="action_new_note">action_new_note</string>
+    <string name="title_activity_update_note">UpdateNoteActivity</string>
+    <string name="action_save_note">action_save_note</string>
+    <string name="action_update_note">action_update_note</string>
+    <string name="action_delete_note">action_delete_note</string>
+    <string name="alert_message">Are you sure want to delete this note?</string>
+    <string name="alert_positive_button">Yes</string>
+    <string name="alert_negative_button">No</string>
+    <string name="toast_note_updated">note updated!</string>
+    <string name="toast_note_deleted">note deleted!</string>
+</resources>
